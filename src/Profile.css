@@ -1,0 +1,61 @@
+.ProfileTop{
+    display: flex;
+    justify-content: center;
+}
+.imgHandler{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.stats
+{
+    display: flex;
+}
+.Top2
+{
+    display: flex;
+    justify-content: space-around;
+   
+    width: 70%;
+}
+.maincon
+{
+    background-color: black;
+    width: 50%;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+
+}
+.profileHeader
+{
+    width: 90%;
+    padding-top: 4%;
+}
+.profilePost
+{
+    padding: 5%;
+}
+.USername
+{
+    display: flex;
+    justify-content: center;
+}
+.DEsc
+{
+    padding-left: 6%;
+}
+.messages
+{
+    margin-top: -5%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: flex-end
+  
+}
+.msgBtn
+{
+    background-color: black;
+    color: gray;
+    
+}

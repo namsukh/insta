@@ -1,0 +1,18 @@
+.recContaienr
+{
+
+    margin-top: 2%;
+    background-color: lightslategray;
+    padding: 5%;
+   
+   
+    border-radius: 25px;
+    
+    
+}
+.RecMain
+{
+    display: flex;
+    padding-left: 6%;
+
+}

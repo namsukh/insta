@@ -1,0 +1,19 @@
+.msgcontent{
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 4%;
+}
+.msgcontent2
+{
+    width: 60%;
+    display: flex;
+    
+}
+.textInbox
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 5%;
+}

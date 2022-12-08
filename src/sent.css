@@ -1,0 +1,20 @@
+.sentContaienr
+{
+
+    margin-top: 2%;
+    background-color: darkblue;
+    padding: 5%;
+   
+    
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    
+}
+.SentMain
+{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 5%;
+
+}
